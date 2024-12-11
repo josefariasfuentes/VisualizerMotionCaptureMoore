@@ -17,6 +17,13 @@ Download the data relative to the experiment realized by Moore in the following 
 
 See details of the data in runinfo and README.
 
+# Notes
+
+The apps where designed using the MATLAB extension appDesiner (made with matlab2024b). To run the program MATLAB has to be installed and the matlab address must be the same where the apps are located.
+
+When the data is loaded in the apps by searching the files in the browser, make sure that the file has the '.mat' extension.
+
+
 References
 ==========
 
