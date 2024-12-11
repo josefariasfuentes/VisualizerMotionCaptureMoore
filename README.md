@@ -20,17 +20,8 @@ See details of the data in runinfo and README.
 References
 ==========
 
-.. [Moore2010] Moore, J. K., Hubbard, M., Schwab, A. L., Kooijman, J. D. G. &
-   Peterson, D. L. Statistics of bicycle rider motion Procedia Engineering, 2010,
-   2, 2937-2942.
-.. [Moore2011] Moore, J. K., Kooijman, J. D. G., Schwab, A. L. & Hubbard, M.,
-   Rider motion identification during normal bicycling by means of principal
-   component analysis. Multibody System Dynamics, Springer Netherlands, 2011,
-   25, 225-244.
+- [Moore2010] Moore, J. K., Hubbard, M., Schwab, A. L., Kooijman, J. D. G. & Peterson, D. L. Statistics of bicycle rider motion Procedia engineering, 2010,2, 2937-2942.
+
+- [Moore2011] Moore, J. K., Kooijman, J. D. G., Schwab, A. L. & Hubbard, M., Rider motion identification during normal bicycling by means of principal component analysis. Multibody System Dynamics, Springer Netherlands, 2011, 25, 225-244.
 
 
-
-
-
-# VisualizerMotionCaptureMoore
-# VisualizerMotionCaptureMoore
